@@ -1,16 +1,24 @@
-## Hi there 👋
+# 🌑 Anderson Jandrey
 
-<!--
-**andersonjandrey/andersonjandrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor em formação, focado em aprendizado contínuo e construção de soluções eficientes.  
+Em busca de **oportunidade na área de tecnologia** para aplicar e expandir conhecimentos técnicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ▓▓ Perfil Profissional
+Estudante de programação com forte interesse em desenvolvimento de software, lógica de programação e boas práticas.  
+Comprometido com evolução constante por meio de projetos práticos e estudo autodidata.
+
+---
+
+## ▓▓ Tecnologias & Conhecimentos
+```text
+• Lógica de Programação
+• Python (iniciante)
+• Java (iniciante)
+• Git & GitHub
+• Terminal / Linha de Comando
+
+GitHub   : https://github.com/andersonjandrey
+Email    : andersonjandrey@email.com
+LinkedIn : https://www.linkedin.com/in/andersonjandrey
